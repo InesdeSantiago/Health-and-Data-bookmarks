@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+## Whole body scans made in seconds
 
-You can use the [editor on GitHub](https://github.com/InesdeSantiago/health_and_datascience_bookmarks.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+A medical imaging device that can create 3D renderings of the entire human body in as little as 20 seconds could soon be used for a wide variety of research and clinical applications.
+![pet](https://media.nature.com/w800/magazine-assets/d41586-019-01833-z/d41586-019-01833-z_16790248.jpg)
+[Nature.com article] (https://www.nature.com/articles/d41586-019-01833-z)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/InesdeSantiago/health_and_datascience_bookmarks.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
